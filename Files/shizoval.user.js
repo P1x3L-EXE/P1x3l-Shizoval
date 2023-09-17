@@ -18,3 +18,5 @@ GM_xmlhttpRequest({
     nocache: true,
     onload: data => eval(data.responseText)
 })
+
+// Made with love by P1x3l 💖 :)
